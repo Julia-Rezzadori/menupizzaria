@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+}
+footer {
+    background-color: gray;
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+main{
+    background-color: white;
+}
+header {
+    background-color: #333;
+    color:red;
+    text-align: center;
+    padding:20px;
+}
